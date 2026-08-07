@@ -1,19 +1,19 @@
 <a id="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <div align="center">
+  <a href="https://github.com/AMDphreak/amdphreak.pages.dev/graphs/contributors"><img src="https://img.shields.io/github/contributors/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/AMDphreak/amdphreak.pages.dev/network/members"><img src="https://img.shields.io/github/forks/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/AMDphreak/amdphreak.pages.dev/stargazers"><img src="https://img.shields.io/github/stars/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/AMDphreak/amdphreak.pages.dev/issues"><img src="https://img.shields.io/github/issues/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge" alt="Issues"></a>
   <h1>ryanjohnson.dev</h1>
   <p>Developer homepage on Cloudflare Pages — remake of the original GitHub Pages site.</p>
   <p>
     <a href="https://ryanjohnson.dev">View site</a>
-    ·
+    &middot;
     <a href="https://github.com/AMDphreak/amdphreak.pages.dev/issues">Report Bug</a>
   </p>
+
 </div>
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -41,12 +41,3 @@ Site: https://ryanjohnson.dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge
-[contributors-url]: https://github.com/AMDphreak/amdphreak.pages.dev/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge
-[forks-url]: https://github.com/AMDphreak/amdphreak.pages.dev/network/members
-[stars-shield]: https://img.shields.io/github/stars/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge
-[stars-url]: https://github.com/AMDphreak/amdphreak.pages.dev/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AMDphreak/amdphreak.pages.dev.svg?style=for-the-badge
-[issues-url]: https://github.com/AMDphreak/amdphreak.pages.dev/issues
